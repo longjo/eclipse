@@ -14,6 +14,7 @@ int main()
     printf("Hello JayJay");
     printf("just checked in on laptop-osx...\n");
     printf("Just checked in on samsung...\n");
+    printf("Just checked in on samsung...\n");
     return 0;
 
 
