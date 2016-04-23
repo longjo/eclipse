@@ -12,6 +12,7 @@
 int main()
 {
     printf("Hello JayJay");
+    printf("just checked in on laptop-osx...\n");
     return 0;
 
 
