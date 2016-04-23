@@ -11,8 +11,9 @@
 
 int main()
 {
-    printf("Hello Git....");
-    printf("test 1..ddd.\n");
+	int i = 0;
+    printf("Helldfdfo Git....\n");
+    printf("test2main\ n");
     return 0;
 
 
